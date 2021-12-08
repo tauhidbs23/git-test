@@ -10,3 +10,6 @@ git config branch.<main>.rebase true
 
 --------------------
 $ git config --global pull.rebase true
+
+now show this message
+Successfully rebased and updated refs/heads/main.
